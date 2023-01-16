@@ -1,0 +1,41 @@
+#submit{
+    width: 150px;
+    height: 60px;
+    background-color: aqua;
+    color: blue;
+    border-radius: 15px;
+
+    font-family: Bahnschrift, serif;
+    font-size: 25px;
+
+    border: none;
+
+    margin-bottom: 25px;
+}
+
+#submit:active{
+    background-color: #7decff;
+}
+
+#submit:hover{
+    background-color: #00c0c0;
+}
+
+body{
+    background-color: #009494;
+}
+
+#movingDiv{
+    width: 80%;
+    border-radius: 15px;
+    border: 10px black;
+    border-style: solid;
+}
+
+#headline{
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}

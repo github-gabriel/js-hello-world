@@ -1,0 +1,23 @@
+#submit{
+    width: 150px;
+    height: 60px;
+    background-color: aqua;
+    color: blue;
+    border-radius: 15px;
+
+    font-family: Bahnschrift, serif;
+    font-size: 25px;
+
+    border: none;
+
+    margin-bottom: 25px;
+}
+
+#submit:active{
+    background-color: #7decff;
+}
+
+#submit:hover{
+    background-color: #00c0c0;
+}
+

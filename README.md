@@ -3,9 +3,11 @@
 # Über dieses Projekt
 
 Zur Zeit gibt es folgende Ordner in diesem Projekt:
+- JS API/axios
 - JS Advanced
 - JS Basics
 - JS Lernen
+
 Jeder Ordner beinhaltet unterschiedliches JavaScript entsprechend dem Namen. In diesem Projekt habe ich die JavaScript Grundlagen nach [diesem Tutorial](https://www.youtube.com/watch?v=UeZi8a99iS0&list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi)
 gelernt, da ich JavaScript später für mein Frontend beim [Vertretungsplan-Projekt](https://github.com/github-gabriel/vertretungsplan) brauchen werde. Mein Ziel ist es jetzt
 ein kleines Projekt (nach Tutorial/ohne Tutorial) mit JavaScript zu machen und wenn ich mich dann sicher genung damit fühle gucke ich mir vielleicht auch noch ein Framework 

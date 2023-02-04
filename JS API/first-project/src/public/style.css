@@ -1,0 +1,41 @@
+body {
+    background: rgb(227, 202, 165);
+    background: linear-gradient(90deg, rgb(162, 144, 119) 0%, rgb(152, 126, 109) 50%, rgb(133, 109, 88) 100%);
+}
+
+.container {
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -4;
+}
+
+.image {
+    text-align: center;
+    color: white;
+}
+
+#text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Segoe UI", serif;
+    font-size: 2.5vw;
+    -webkit-text-stroke: 2px black;
+}
+
+#image {
+    width: 60%;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 100px 50px rgb(98, 80, 68);
+    border-radius: 50px;
+}
